@@ -19,13 +19,14 @@ Hate -
 Here are some ideas to get you started:
 
 -->
-
-- 🔭 I’m currently working on improving my DSA skills
-- 🌱 I’m currently learning Open Source Development
+### Other stuff
+ 🔭 I’m currently working on improving my DSA skills
+ 
+ 🌱 I’m currently learning Open Source Development
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with finding opportunities in Full time roles
-- 💬 Ask me about anything tech
-- 📫 How to reach me: Email - manojayyappan18@gmail.com
+ 🤔 I’m looking for help with finding opportunities in Full time roles
+ 💬 Ask me about anything tech
+ 📫 How to reach me: Email - manojayyappan18@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I play the Indian Classical Flute (With zero knowledge of actual Music theory thanks to YouTube)
+ ⚡ Fun fact: I play the Indian Classical Flute (With zero knowledge of actual Music theory thanks to YouTube)
 
