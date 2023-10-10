@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Portfolio - https://manoj-ayyappan.github.io/portfolio/
+
 I am a Computer Science Graduate student at NC State University, Raleigh, NC, USA.
 You can reach me at manojayyappan18@gmail.com
 
