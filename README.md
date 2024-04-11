@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 
 -->
 ### Other stuff
- 🔭 I’m currently working on improving my DSA skills
+ 🔭 I’m currently working on improving my DSA and coding skills
  
  🌱 I’m currently learning Open Source Development
+ - OpenEMR
+ - Expertiza
 <!-- - 👯 I’m looking to collaborate on ... -->
- 🤔 I’m looking for help with finding opportunities in Full time roles
+ 🤔 I’m looking Full time opportunities in Software Developemnt roles starting May 2024
  💬 Ask me about anything tech
  📫 How to reach me: Email - manojayyappan18@gmail.com
 <!-- - 😄 Pronouns: ... -->
