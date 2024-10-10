@@ -2,7 +2,7 @@
 
 Portfolio - https://manoj-ayyappan.github.io/portfolio/
 
-I am a Computer Science Graduate student at NC State University, Raleigh, NC, USA.
+I am a recent graduate from NC State University with a Masters in Computer Science.
 You can reach me at manojayyappan18@gmail.com
 
 Love -
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
  - OpenEMR
  - Expertiza
 <!-- - 👯 I’m looking to collaborate on ... -->
- 🤔 I’m looking Full time opportunities in Software Developemnt roles starting May 2024
+ 🤔 I’m looking Full time opportunities in Software Developemnt roles.
  💬 Ask me about anything tech
  📫 How to reach me: Email - manojayyappan18@gmail.com
 <!-- - 😄 Pronouns: ... -->
- ⚡ Fun fact: I play the Indian Classical Flute (With zero knowledge of actual Music theory thanks to YouTube)
+ ⚡ Fun fact: I play the Indian Classical Flute (thanks to YouTube)
 
