@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Portfolio - https://manoj-ayyappan.github.io/portfolio/
+Portfolio - https://manoj-ayyappan.github.io/pf/
 
 I am a recent graduate from NC State University with a Masters in Computer Science.
 You can reach me at manojayyappan18@gmail.com
