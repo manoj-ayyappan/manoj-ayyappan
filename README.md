@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  - OpenEMR
  - Expertiza
 <!-- - 👯 I’m looking to collaborate on ... -->
- 🤔 I’m looking Full time opportunities in Software Developemnt roles.
+ 🤔 I’m working as a Software Engineer
  💬 Ask me about anything tech
  📫 How to reach me: Email - manojayyappan18@gmail.com
 <!-- - 😄 Pronouns: ... -->
